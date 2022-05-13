@@ -1,0 +1,1 @@
+Пример 3_fixtures_scope_and_autouse
